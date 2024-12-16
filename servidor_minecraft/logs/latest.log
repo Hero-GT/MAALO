@@ -1416,3 +1416,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [16Dec2024 22:59:26.094] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [16Dec2024 23:24:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [16Dec2024 23:24:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[16Dec2024 23:36:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
