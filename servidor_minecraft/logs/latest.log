@@ -1414,3 +1414,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [16Dec2024 22:59:15.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.30.70.184:49513] logged in with entity id 119 at (353.3198866764536, -46.0, -3646.6157907353604)
 [16Dec2024 22:59:15.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
 [16Dec2024 22:59:26.094] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[16Dec2024 23:24:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[16Dec2024 23:24:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
