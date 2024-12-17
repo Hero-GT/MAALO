@@ -1418,11 +1418,13 @@
       "clover_patch": "2024-12-16 19:11:55 +0000",
       "maple_woods": "2024-12-15 07:17:27 +0000",
       "crystalline_chasm": "2024-12-15 03:23:22 +0000",
+      "withered_abyss": "2024-12-17 02:30:31 +0000",
       "orchard": "2024-12-14 20:40:17 +0000",
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
       "spider_nest": "2024-12-14 20:45:51 +0000",
       "redwood_forest": "2024-12-15 04:11:00 +0000",
       "visceral_heap": "2024-12-15 04:26:30 +0000",
+      "seasonal_orchard": "2024-12-17 02:55:57 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
       "lavender_field": "2024-12-15 06:17:13 +0000",
       "fir_clearing": "2024-12-15 07:34:38 +0000",
@@ -1614,6 +1616,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
       "minecraft:ghast": "2024-12-15 04:53:42 +0000",
+      "minecraft:hoglin": "2024-12-17 02:37:22 +0000",
       "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:32:56 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
@@ -5647,6 +5650,12 @@
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-12-16 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-12-17 02:42:51 +0000"
     },
     "done": true
   },
