@@ -1434,7 +1434,8 @@
       "snowy_fir_clearing": "2024-12-14 03:50:29 +0000",
       "glowing_grotto": "2024-12-14 03:40:20 +0000",
       "undergrowth": "2024-12-15 04:27:52 +0000",
-      "snowy_maple_woods": "2024-12-14 03:49:03 +0000"
+      "snowy_maple_woods": "2024-12-14 03:49:03 +0000",
+      "ominous_woods": "2024-12-17 04:52:56 +0000"
     },
     "done": false
   },
@@ -6106,6 +6107,12 @@
     },
     "done": true
   },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2024-12-17 04:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-17 03:47:34 +0000"
@@ -6148,9 +6155,21 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-17 04:52:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-17 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-17 04:35:59 +0000"
     },
     "done": true
   },
@@ -6218,6 +6237,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-17 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2024-12-17 04:35:42 +0000"
     },
     "done": true
   },
