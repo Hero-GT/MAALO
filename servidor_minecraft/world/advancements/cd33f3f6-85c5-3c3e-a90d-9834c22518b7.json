@@ -4067,12 +4067,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2024-12-16 21:24:01 +0000"
-    },
-    "done": false
-  },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2024-12-16 21:27:27 +0000"
@@ -4217,6 +4211,18 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
     "criteria": {
       "has_polished_dark_stone": "2024-12-17 21:35:27 +0000"
@@ -4246,6 +4252,12 @@
       "has_polished_dark_stone": "2024-12-17 21:35:27 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
@@ -4331,6 +4343,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:36:20 +0000"
@@ -4373,6 +4391,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:36:20 +0000"
@@ -4384,6 +4408,12 @@
       "has_dark_stone_brick_slab": "2024-12-17 21:38:00 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
     "criteria": {
@@ -4432,6 +4462,12 @@
       "has_item": "2024-12-17 19:38:38 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
@@ -4487,11 +4523,23 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2024-12-17 21:56:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2024-12-17 21:12:21 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
@@ -4505,15 +4553,33 @@
     },
     "done": true
   },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-17 19:32:20 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2024-12-17 21:56:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2024-12-17 21:54:50 +0000"
     },
     "done": true
   },
@@ -4526,6 +4592,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-17 20:08:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-12-17 21:50:34 +0000"
     },
     "done": true
   },
@@ -4586,6 +4658,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-17 20:07:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2024-12-17 21:56:26 +0000"
     },
     "done": true
   },
