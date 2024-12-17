@@ -797,6 +797,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-17 02:58:34 +0000",
       "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
       "minecraft:beach": "2024-12-14 20:55:26 +0000",
       "minecraft:river": "2024-12-14 03:19:01 +0000",
@@ -1652,6 +1653,7 @@
       "cooked_porkchop": "2024-12-15 03:09:39 +0000",
       "cooked_mutton": "2024-12-14 22:02:24 +0000",
       "sweet_berries": "2024-12-14 03:30:05 +0000",
+      "beef": "2024-12-17 02:57:58 +0000",
       "porkchop": "2024-12-15 21:40:02 +0000",
       "apple": "2024-12-14 03:33:47 +0000",
       "bread": "2024-12-14 03:22:12 +0000",
