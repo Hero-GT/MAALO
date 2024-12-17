@@ -2317,3 +2317,62 @@
 [17Dec2024 03:51:59.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11478ms or 229 ticks behind
 [17Dec2024 03:52:20.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
 [17Dec2024 03:52:31.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17817ms or 356 ticks behind
+[17Dec2024 03:53:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
+[17Dec2024 03:53:08.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22059ms or 441 ticks behind
+[17Dec2024 03:53:34.509] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:35.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11985ms or 239 ticks behind
+[17Dec2024 03:53:41.483] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:41.500] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:41.542] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:41.625] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.554] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.583] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.588] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.588] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.627] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.627] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.653] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:56.654] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 03:53:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita is bleeding. cancholita was obliterated by a sonically-charged shriek whilst trying to escape Kazuruki
+[17Dec2024 03:54:01.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10393ms or 207 ticks behind
+[17Dec2024 03:54:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita is bleeding. cancholita was burnt to a crisp whilst fighting Kazuruki
+[17Dec2024 03:54:25.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8875ms or 177 ticks behind
+[17Dec2024 03:54:44.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cancholita lost connection: Disconnected
+[17Dec2024 03:54:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita left the game
+[17Dec2024 03:54:45.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Fenire the Fiery'/150678, l='ServerLevel[world]', x=-197.23, y=67.00, z=-519.35] died: Fenire the Fiery was slain by Kazuruki using [Moonlight Edge]
+[17Dec2024 03:54:49.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9101ms or 182 ticks behind
+[17Dec2024 03:55:07.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cancholita[/172.30.110.61:53967] logged in with entity id 179138 at (-181.5129973124875, 79.0, -549.6999999880791)
+[17Dec2024 03:55:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita joined the game
+[17Dec2024 03:55:12.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8128ms or 162 ticks behind
+[17Dec2024 03:55:36.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9686ms or 193 ticks behind
+[17Dec2024 03:56:08.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16290ms or 325 ticks behind
+[17Dec2024 03:56:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck hit the ground too hard
+[17Dec2024 03:56:36.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13629ms or 272 ticks behind
+[17Dec2024 03:57:00.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 45 [Blaze Rod] to cancholita]
+[17Dec2024 03:57:08.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16892ms or 337 ticks behind
+[17Dec2024 03:57:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita has made the advancement [Into Fire]
+[17Dec2024 03:57:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 03:57:46.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22836ms or 456 ticks behind
+[17Dec2024 03:57:54.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 03:58:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 03:58:18.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:58:20.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19506ms or 390 ticks behind
+[17Dec2024 03:58:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:58:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck suffocated in a wall
+[17Dec2024 03:58:47.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11710ms or 234 ticks behind
+[17Dec2024 03:58:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 03:58:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported cancholita to Kazuruki]
+[17Dec2024 03:58:58.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 03:59:16.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13560ms or 271 ticks behind
+[17Dec2024 03:59:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set 57 experience levels on cancholita]
+[17Dec2024 03:59:42.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11060ms or 221 ticks behind
+[17Dec2024 04:00:06.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9682ms or 193 ticks behind
+[17Dec2024 04:00:28.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7060ms or 141 ticks behind
+[17Dec2024 04:00:49.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[17Dec2024 04:01:09.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5621ms or 112 ticks behind
+[17Dec2024 04:02:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Cover Me with Diamonds]
+[17Dec2024 04:02:25.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Dec2024 04:02:25.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Hidden in the Depths]
+[17Dec2024 04:02:43.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[17Dec2024 04:03:01.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[17Dec2024 04:03:19.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind

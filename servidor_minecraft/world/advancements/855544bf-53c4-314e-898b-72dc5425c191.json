@@ -6087,6 +6087,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/root": {
     "criteria": {
       "killed_blaze": "2024-12-17 03:47:54 +0000"
@@ -6102,6 +6114,24 @@
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-12-17 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
     },
     "done": true
   },
@@ -6121,6 +6151,42 @@
     "criteria": {
       "blood_container": "2024-12-17 03:31:50 +0000",
       "main": "2024-12-17 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-17 04:01:04 +0000"
     },
     "done": true
   },
