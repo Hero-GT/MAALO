@@ -5364,7 +5364,7 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -5388,7 +5388,7 @@
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -5492,6 +5492,12 @@
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-17 03:27:36 +0000"
     },
     "done": true
   },
@@ -5605,7 +5611,7 @@
   },
   "vampirism:vampire/kill_mother": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -5725,7 +5731,7 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -5737,7 +5743,7 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -5881,7 +5887,7 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -6031,7 +6037,7 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },
@@ -6055,7 +6061,7 @@
   },
   "vampirism:vampire/sniped": {
     "criteria": {
-      "main": "2024-12-17 02:07:53 +0000"
+      "main": "2024-12-17 03:25:41 +0000"
     },
     "done": false
   },

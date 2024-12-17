@@ -1984,3 +1984,72 @@
 [17Dec2024 03:20:26.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
 [17Dec2024 03:20:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
 [17Dec2024 03:21:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 1]
+[17Dec2024 03:21:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 1]
+[17Dec2024 03:21:38.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita has made the advancement [The Basics]
+[17Dec2024 03:21:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 03:22:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Phantom
+[17Dec2024 03:22:02.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a a server operator]
+[17Dec2024 03:22:20.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Phantom
+[17Dec2024 03:22:30.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Restless Spirit
+[17Dec2024 03:22:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Resistance to Chik3nBl4ck]
+[17Dec2024 03:23:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita has made the advancement [We Need to Go Deeper]
+[17Dec2024 03:23:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to cancholita]
+[17Dec2024 03:24:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 03:24:19.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 03:24:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Chik3nBl4ck's game mode to Creative Mode]
+[17Dec2024 03:25:16.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 03:25:24.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Dec2024 03:25:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 1]
+[17Dec2024 03:25:42.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[17Dec2024 03:25:47.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/103360, l='ServerLevel[world]', x=77.10, y=64.00, z=-5282.35] died, message: 'Villager was slain by Zombie'
+[17Dec2024 03:25:47.815] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3387, y=72, z=2258}
+[17Dec2024 03:25:52.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 2]
+[17Dec2024 03:26:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Chik3nBl4ck's game mode to Survival Mode]
+[17Dec2024 03:26:02.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17Dec2024 03:26:21.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4720ms or 94 ticks behind
+[17Dec2024 03:26:43.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6478ms or 129 ticks behind
+[17Dec2024 03:26:45.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Stephanie the Odd'/115948, l='ServerLevel[world]', x=32.76, y=70.00, z=-347.04] died: Stephanie the Odd was slain by Zombified Piglin
+[17Dec2024 03:26:51.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/104774, l='ServerLevel[world]', x=68.69, y=66.34, z=-5296.48] died, message: 'Villager was slain by Zombie'
+[17Dec2024 03:26:58.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=98, z=-405} BlockPos{x=131, y=99, z=-405}
+[17Dec2024 03:26:58.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=98, z=-405} BlockPos{x=131, y=99, z=-405}
+[17Dec2024 03:27:04.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6521ms or 130 ticks behind
+[17Dec2024 03:27:12.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:27:21.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[17Dec2024 03:27:21.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[17Dec2024 03:27:24.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[17Dec2024 03:27:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Dark Metallurgy]
+[17Dec2024 03:27:42.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[17Dec2024 03:27:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 2]
+[17Dec2024 03:28:00.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[17Dec2024 03:28:02.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 2]
+[17Dec2024 03:28:15.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=91, z=-414} BlockPos{x=124, y=93, z=-413}
+[17Dec2024 03:28:19.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[17Dec2024 03:28:37.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
+[17Dec2024 03:28:41.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7018ms or 140 ticks behind
+[17Dec2024 03:28:44.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 03:29:03.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[17Dec2024 03:29:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:29:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 03:29:25.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7247ms or 144 ticks behind
+[17Dec2024 03:29:43.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[17Dec2024 03:30:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:30:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita has made the advancement [Gobber Goes Nether]
+[17Dec2024 03:30:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:48.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:49.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:30:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Blood Bank]
+[17Dec2024 03:30:54.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 03:31:12.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123858, l='ServerLevel[world]', x=39.31, y=67.00, z=-5235.31] died, message: 'Villager was slain by Zombie Bruiser'
+[17Dec2024 03:31:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Sieve] to Kazuruki]
+[17Dec2024 03:31:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Sieve] to Kazuruki]
+[17Dec2024 03:31:48.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:31:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blood Container] to Kazuruki]
+[17Dec2024 03:31:49.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/123861, l='ServerLevel[world]', x=54.30, y=62.00, z=-5225.82] died, message: 'Scribe was slain by Zombie'
+[17Dec2024 03:31:50.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Blood Bank]

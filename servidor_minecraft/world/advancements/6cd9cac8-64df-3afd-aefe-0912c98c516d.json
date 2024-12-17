@@ -1225,6 +1225,7 @@
       "shrubland": "2024-12-15 03:59:34 +0000",
       "rocky_shrubland": "2024-12-15 03:44:58 +0000",
       "maple_woods": "2024-12-15 06:59:46 +0000",
+      "crystalline_chasm": "2024-12-17 03:23:03 +0000",
       "orchard": "2024-12-15 04:31:25 +0000",
       "field": "2024-12-15 06:53:12 +0000",
       "lavender_forest": "2024-12-15 04:23:53 +0000",
@@ -4864,6 +4865,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-17 03:23:53 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-17 03:13:44 +0000"
@@ -4891,6 +4898,12 @@
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2024-12-17 03:13:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-17 03:21:38 +0000"
     },
     "done": true
   },
@@ -4924,6 +4937,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-17 03:14:43 +0000"
@@ -4942,9 +4961,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-17 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
     },
     "done": true
   },
@@ -4966,6 +4997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-12-17 03:09:26 +0000"
@@ -4981,6 +5018,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-17 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
     },
     "done": true
   },
@@ -5170,9 +5213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 03:24:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-17 03:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-17 03:23:11 +0000"
     },
     "done": true
   },
@@ -5272,6 +5327,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 03:23:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-17 03:09:26 +0000"
@@ -5314,9 +5375,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-17 03:20:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-17 03:14:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
     },
     "done": true
   },
@@ -5344,6 +5417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-17 03:14:43 +0000"
@@ -5368,6 +5447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:24:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/general/injection_0": {
     "criteria": {
       "has_glass": "2024-12-17 03:14:43 +0000"
@@ -5383,6 +5468,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-17 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 03:23:02 +0000"
     },
     "done": true
   },
@@ -5431,6 +5522,18 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-17 03:14:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2024-12-17 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 03:24:26 +0000"
     },
     "done": true
   },
