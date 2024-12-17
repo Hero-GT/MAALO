@@ -2111,3 +2111,62 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [17Dec2024 20:25:48.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
 [17Dec2024 20:25:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [17Dec2024 20:26:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Spectator Mode]
+[17Dec2024 20:26:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 20:26:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:27:13.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Olaf the Son of Herobrine'/65977, l='ServerLevel[world]', x=696.89, y=70.00, z=-3578.29] died: Olaf the Son of Herobrine was slain by Graniter82a
+[17Dec2024 20:27:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 4]
+[17Dec2024 20:27:57.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by blasphemy knight
+[17Dec2024 20:28:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Count Robert
+[17Dec2024 20:28:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
+[17Dec2024 20:28:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Count Robert
+[17Dec2024 20:28:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Count Robert
+[17Dec2024 20:28:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Count Robert
+[17Dec2024 20:28:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Sanity15]
+[17Dec2024 20:28:48.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17Dec2024 20:28:59.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Blood Cult]
+[17Dec2024 20:29:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 20:29:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17Dec2024 20:29:18.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 20:29:31.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Vampire Diaries]
+[17Dec2024 20:29:38.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 20:29:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[17Dec2024 20:29:42.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 20:30:39.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Hunter level 4]
+[17Dec2024 20:30:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 4]
+[17Dec2024 20:31:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:31:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 4]
+[17Dec2024 20:31:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:31:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 20:31:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Hollow soldier
+[17Dec2024 20:31:21.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[17Dec2024 20:31:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 5]
+[17Dec2024 20:31:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 4]
+[17Dec2024 20:31:56.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [My prince] to Kazuruki]
+[17Dec2024 20:32:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Vampire level 4]
+[17Dec2024 20:32:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Hunter level 14]
+[17Dec2024 20:32:50.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17Dec2024 20:32:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:33:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 20:33:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [My prince] to Kazuruki]
+[17Dec2024 20:33:18.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:33:36.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:33:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 367.500000, 63.500000, -3690.500000]
+[17Dec2024 20:33:45.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[17Dec2024 20:34:00.414] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Dec2024 20:34:00.415] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Dec2024 20:34:00.416] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[17Dec2024 20:34:00.468] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:34:00.495] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:34:00.496] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:34:00.532] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:34:00.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[17Dec2024 20:34:20.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4268ms or 85 ticks behind
+[17Dec2024 20:34:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Begone, Flux]
+[17Dec2024 20:34:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Enchanter]
+[17Dec2024 20:34:34.340] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:34:34.340] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:35:47.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=64, z=-3720} BlockPos{x=364, y=63, z=-3719}
+[17Dec2024 20:35:47.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=64, z=-3720} BlockPos{x=364, y=63, z=-3719}
+[17Dec2024 20:36:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
+[17Dec2024 20:36:14.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:36:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 367.500000, 63.500000, -3690.500000]
