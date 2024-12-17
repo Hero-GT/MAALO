@@ -6695,5 +6695,11 @@
     },
     "done": false
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "crucible_sword": "2024-12-17 19:54:06 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
