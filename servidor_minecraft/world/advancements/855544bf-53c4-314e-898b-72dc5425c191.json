@@ -4408,24 +4408,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/technology": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/kill_resurrected_vampire": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/max_lord": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
-  },
   "vampirism:hunter/max_level": {
     "criteria": {
       "level": "2024-12-15 06:05:57 +0000"
@@ -4438,24 +4420,6 @@
       "kill": "2024-12-15 07:47:05 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/cure_vampire_villager": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/stake": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/kill_mother": {
-    "criteria": {
-      "main": "2024-12-17 03:33:16 +0000"
-    },
-    "done": false
   },
   "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
     "criteria": {
@@ -6089,6 +6053,115 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2024-12-17 03:31:50 +0000",
+      "main": "2024-12-17 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-12-17 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-17 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-17 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2024-12-17 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-17 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-17 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/root": {
+    "criteria": {
+      "killed_blaze": "2024-12-17 03:47:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-17 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-17 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-17 03:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-17 04:01:04 +0000"
@@ -6101,51 +6174,9 @@
     },
     "done": true
   },
-  "supertools:supertools/root": {
-    "criteria": {
-      "killed_blaze": "2024-12-17 03:47:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-17 04:55:23 +0000"
-    },
-    "done": true
-  },
-  "terramity:lucky_cherries_advancement": {
-    "criteria": {
-      "lucky_cherries_advancement_0": "2024-12-17 04:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-17 03:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-17 04:55:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-17 03:29:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-17 04:01:04 +0000"
-    },
-    "done": true
-  },
-  "terramity:lucky_sevens_advancement": {
-    "criteria": {
-      "lucky_sevens_advancement_0": "2024-12-17 04:26:56 +0000"
     },
     "done": true
   },
@@ -6155,70 +6186,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2024-12-17 04:56:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-17 04:01:04 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2024-12-17 03:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-17 04:52:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-12-17 04:17:14 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2024-12-17 04:35:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-17 03:46:36 +0000"
-    },
-    "done": true
-  },
-  "terramity:most_gamblers_quit_advancement": {
-    "criteria": {
-      "most_gamblers_quit_advancement_0": "2024-12-17 04:26:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-17 04:04:31 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "blood_container": "2024-12-17 03:31:50 +0000",
-      "main": "2024-12-17 03:21:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-17 04:55:23 +0000"
     },
     "done": true
   },
@@ -6240,18 +6210,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2024-12-17 04:56:32 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/nether_star_hook": {
-    "criteria": {
-      "has_items": "2024-12-17 04:56:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-17 04:01:04 +0000"
@@ -6270,9 +6228,27 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
-      "wither_skull": "2024-12-17 03:48:44 +0000"
+      "has_amethyst_shard": "2024-12-17 04:04:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-17 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-17 04:26:23 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-17 04:26:56 +0000"
     },
     "done": true
   },
@@ -6282,33 +6258,57 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/lost_soul": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "has_item": "2024-12-17 03:47:34 +0000"
+      "the_wind_darkening_0": "2024-12-17 04:35:59 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/become_vampire": {
+  "terramity:lucky_cherries_advancement": {
     "criteria": {
-      "main": "2024-12-17 03:21:02 +0000"
+      "lucky_cherries_advancement_0": "2024-12-17 04:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_soul_sand": "2024-12-17 03:47:34 +0000"
+      "summoned": "2024-12-17 04:52:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_item": "2024-12-17 03:29:57 +0000"
+      "has_ancient_debris": "2024-12-17 04:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-17 03:48:44 +0000"
+      "ancient_debris": "2024-12-17 04:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-17 04:55:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2024-12-17 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-17 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2024-12-17 04:56:32 +0000"
     },
     "done": true
   },

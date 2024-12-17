@@ -1436,3 +1436,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [17Dec2024 19:11:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
 [17Dec2024 19:11:13.714] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [17Dec2024 19:11:47.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[17Dec2024 19:13:38.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 4]
+[17Dec2024 19:13:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 3 players]
+[17Dec2024 19:13:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Bat Mode]
+[17Dec2024 19:14:02.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[17Dec2024 19:14:11.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned in shadowflame
+[17Dec2024 19:16:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 19:21:22.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17Dec2024 19:21:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 19:22:42.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 19:22:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 19:23:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Enhanced Diamond Hammer] to Kazuruki]
