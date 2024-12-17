@@ -11,3 +11,7 @@
 [17Dec2024 00:44:33.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Donald the Superior'/11995, l='ServerLevel[world]', x=-564.83, y=66.00, z=-4769.86] died: Donald the Superior was slain by Kazuruki
 [17Dec2024 00:44:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [He Wasn't So Strong]
 [17Dec2024 00:46:26.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[17Dec2024 00:49:27.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[17Dec2024 00:50:06.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -8.627856799421352E-4,-11.445103380700218,-5.911421631026315E-4
+[17Dec2024 00:50:16.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 00:57:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
