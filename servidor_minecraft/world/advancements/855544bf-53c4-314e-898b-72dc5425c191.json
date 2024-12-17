@@ -1620,6 +1620,7 @@
       "minecraft:phantom": "2024-12-15 05:09:29 +0000",
       "minecraft:zombified_piglin": "2024-12-15 04:16:29 +0000",
       "minecraft:witch": "2024-12-15 21:14:21 +0000",
+      "minecraft:wither_skeleton": "2024-12-17 02:27:24 +0000",
       "minecraft:cave_spider": "2024-12-14 20:56:33 +0000",
       "minecraft:piglin": "2024-12-15 03:28:34 +0000",
       "minecraft:enderman": "2024-12-15 04:15:12 +0000",
@@ -5649,6 +5650,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall": {
+    "criteria": {
+      "has_block": "2024-12-17 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-17 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-16 23:32:32 +0000"
@@ -5673,6 +5686,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-17 02:02:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-16 23:43:22 +0000"
@@ -5688,6 +5707,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-16 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-17 02:24:57 +0000"
     },
     "done": true
   },
@@ -5811,6 +5836,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_tiles": {
+    "criteria": {
+      "has_item": "2024-12-17 02:24:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-16 23:44:22 +0000"
@@ -5883,6 +5914,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs": {
+    "criteria": {
+      "has_block": "2024-12-17 02:24:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-16 23:43:22 +0000"
@@ -5892,6 +5929,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_wool": "2024-12-16 23:32:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab": {
+    "criteria": {
+      "has_block": "2024-12-17 02:24:57 +0000"
     },
     "done": true
   },
@@ -5946,6 +5989,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2024-12-16 23:44:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-17 02:24:57 +0000"
     },
     "done": true
   },
