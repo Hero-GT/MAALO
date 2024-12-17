@@ -4379,6 +4379,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_brick_slab": "2024-12-17 21:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2024-12-17 21:35:27 +0000"
