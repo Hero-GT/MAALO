@@ -1619,6 +1619,7 @@
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
       "minecraft:ghast": "2024-12-15 04:53:42 +0000",
       "minecraft:hoglin": "2024-12-17 02:37:22 +0000",
+      "minecraft:vindicator": "2024-12-17 23:26:26 +0000",
       "minecraft:magma_cube": "2024-12-17 03:50:53 +0000",
       "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:32:56 +0000",
@@ -6679,6 +6680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 23:30:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
@@ -6706,6 +6713,18 @@
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:30:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:30:25 +0000"
     },
     "done": true
   },
