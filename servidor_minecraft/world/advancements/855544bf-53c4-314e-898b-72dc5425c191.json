@@ -6668,6 +6668,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
@@ -6698,9 +6704,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/jungle_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
     },
     "done": true
   },
@@ -6710,9 +6734,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
     },
     "done": true
   },
@@ -6734,9 +6770,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
     },
     "done": true
   },
