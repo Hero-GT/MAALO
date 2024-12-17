@@ -6312,5 +6312,17 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-17 19:57:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-17 19:57:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
