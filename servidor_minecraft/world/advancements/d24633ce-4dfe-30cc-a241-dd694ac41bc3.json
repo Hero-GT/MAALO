@@ -5547,6 +5547,12 @@
     },
     "done": true
   },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2024-12-17 04:55:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
@@ -6292,6 +6298,12 @@
     },
     "done": true
   },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-17 04:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
@@ -6505,6 +6517,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
+    },
+    "done": true
+  },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2024-12-17 04:55:22 +0000"
     },
     "done": true
   },

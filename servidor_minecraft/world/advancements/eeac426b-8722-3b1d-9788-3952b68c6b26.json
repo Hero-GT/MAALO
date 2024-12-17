@@ -4503,7 +4503,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-15 04:45:01 +0000",
-      "minecraft:soul_sand_valley": "2024-12-14 22:14:14 +0000"
+      "minecraft:soul_sand_valley": "2024-12-14 22:14:14 +0000",
+      "minecraft:nether_wastes": "2024-12-17 05:05:16 +0000",
+      "minecraft:basalt_deltas": "2024-12-17 05:01:44 +0000"
     },
     "done": false
   },
@@ -6693,6 +6695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 04:57:01 +0000"
+    },
+    "done": true
+  },
   "terramity:lucky_sevens_advancement": {
     "criteria": {
       "lucky_sevens_advancement_0": "2024-12-17 04:45:29 +0000"
@@ -6747,15 +6755,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-17 04:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-17 04:52:16 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-17 04:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-17 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 04:57:01 +0000"
     },
     "done": true
   },
