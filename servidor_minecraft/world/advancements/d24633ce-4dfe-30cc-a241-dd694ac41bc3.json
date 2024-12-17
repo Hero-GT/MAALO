@@ -815,6 +815,7 @@
       "minecraft:desert": "2024-12-14 21:43:34 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-14 03:33:42 +0000",
       "minecraft:ocean": "2024-12-15 04:55:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 21:17:58 +0000",
       "minecraft:snowy_beach": "2024-12-15 05:09:55 +0000",
       "minecraft:meadow": "2024-12-17 20:45:21 +0000",
       "minecraft:savanna": "2024-12-14 21:34:45 +0000",
@@ -1022,12 +1023,14 @@
       "snowblossom_grove": "2024-12-14 03:52:33 +0000",
       "rocky_shrubland": "2024-12-14 03:18:33 +0000",
       "scrubland": "2024-12-14 21:21:17 +0000",
+      "highland": "2024-12-17 21:19:13 +0000",
       "clover_patch": "2024-12-14 20:56:04 +0000",
       "cold_desert": "2024-12-14 03:39:35 +0000",
       "old_growth_woodland": "2024-12-14 21:34:57 +0000",
       "maple_woods": "2024-12-14 20:55:44 +0000",
       "crystalline_chasm": "2024-12-17 03:39:37 +0000",
       "orchard": "2024-12-15 05:02:37 +0000",
+      "field": "2024-12-17 21:19:10 +0000",
       "lavender_forest": "2024-12-15 05:02:35 +0000",
       "mediterranean_forest": "2024-12-14 21:22:43 +0000",
       "coniferous_forest": "2024-12-14 03:18:32 +0000",
@@ -1041,7 +1044,8 @@
       "snowy_coniferous_forest": "2024-12-14 03:38:17 +0000",
       "snowy_fir_clearing": "2024-12-14 03:38:32 +0000",
       "tundra": "2024-12-14 03:55:20 +0000",
-      "rainforest": "2024-12-15 04:08:52 +0000"
+      "rainforest": "2024-12-15 04:08:52 +0000",
+      "crag": "2024-12-17 21:18:16 +0000"
     },
     "done": false
   },
@@ -6724,6 +6728,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2024-12-17 21:14:49 +0000"
@@ -6760,9 +6770,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_boots": {
     "criteria": {
       "has_item": "2024-12-17 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
     },
     "done": true
   },
@@ -6802,15 +6830,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
     },
     "done": true
   },
@@ -6847,6 +6893,12 @@
   "vampirism:main/regicide": {
     "criteria": {
       "main": "2024-12-17 21:16:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
     },
     "done": true
   },
@@ -6928,6 +6980,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
@@ -6976,6 +7034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
@@ -7000,6 +7064,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
@@ -7009,6 +7085,12 @@
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
     },
     "done": true
   },

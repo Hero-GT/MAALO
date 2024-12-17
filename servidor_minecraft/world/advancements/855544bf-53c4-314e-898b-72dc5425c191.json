@@ -6427,6 +6427,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2024-12-17 21:25:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-17 20:34:50 +0000"
@@ -6448,6 +6454,12 @@
   "croptopia:recipes/misc/cherry_jam": {
     "criteria": {
       "has_cherry": "2024-12-17 20:35:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-12-17 21:26:01 +0000"
     },
     "done": true
   },
