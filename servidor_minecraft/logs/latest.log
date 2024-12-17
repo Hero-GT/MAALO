@@ -15,3 +15,9 @@
 [17Dec2024 00:50:06.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -8.627856799421352E-4,-11.445103380700218,-5.911421631026315E-4
 [17Dec2024 00:50:16.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
 [17Dec2024 00:57:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 00:58:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 00:58:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Universal Block Remover] to Kazuruki]
+[17Dec2024 01:01:39.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=-54, z=-3655} BlockPos{x=361, y=-54, z=-3655}
+[17Dec2024 01:01:39.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=-54, z=-3655} BlockPos{x=361, y=-54, z=-3655}
+[17Dec2024 01:03:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17Dec2024 01:03:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
