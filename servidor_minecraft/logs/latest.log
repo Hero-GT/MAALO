@@ -4,3 +4,10 @@
 [17Dec2024 00:27:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Begone, Flux]
 [17Dec2024 00:32:14.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [17Dec2024 00:36:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Text Projector] to Kazuruki]
+[17Dec2024 00:39:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -606.500000, 70.500000, -4747.500000]
+[17Dec2024 00:39:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -609.500000, 70.500000, -4747.500000]
+[17Dec2024 00:39:49.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
+[17Dec2024 00:41:01.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['The Honorable Chasity the Mighty'/10686, l='ServerLevel[world]', x=-566.10, y=69.00, z=-4817.09] died: The Honorable Chasity the Mighty was slain by Kazuruki using [Moonlight Edge]
+[17Dec2024 00:44:33.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Donald the Superior'/11995, l='ServerLevel[world]', x=-564.83, y=66.00, z=-4769.86] died: Donald the Superior was slain by Kazuruki
+[17Dec2024 00:44:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [He Wasn't So Strong]
+[17Dec2024 00:46:26.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
