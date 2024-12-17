@@ -805,9 +805,11 @@
       "minecraft:snowy_plains": "2024-12-14 03:55:21 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:12 +0000",
       "minecraft:snowy_taiga": "2024-12-14 03:38:42 +0000",
+      "minecraft:dripstone_caves": "2024-12-17 20:58:25 +0000",
       "minecraft:grove": "2024-12-14 03:39:20 +0000",
       "minecraft:cold_ocean": "2024-12-14 03:23:38 +0000",
       "minecraft:forest": "2024-12-14 03:17:21 +0000",
+      "minecraft:lush_caves": "2024-12-17 20:55:35 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 03:24:52 +0000",
       "minecraft:frozen_ocean": "2024-12-14 03:25:24 +0000",
       "minecraft:desert": "2024-12-14 21:43:34 +0000",
@@ -6721,9 +6723,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-17 20:36:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
     },
     "done": true
   },
@@ -6754,6 +6774,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
     },
     "done": true
   },
@@ -6799,9 +6825,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 20:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-17 20:56:00 +0000"
     },
     "done": true
   },
