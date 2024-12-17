@@ -1023,6 +1023,7 @@
       "cold_desert": "2024-12-14 03:39:35 +0000",
       "old_growth_woodland": "2024-12-14 21:34:57 +0000",
       "maple_woods": "2024-12-14 20:55:44 +0000",
+      "crystalline_chasm": "2024-12-17 03:39:37 +0000",
       "orchard": "2024-12-15 05:02:37 +0000",
       "lavender_forest": "2024-12-15 05:02:35 +0000",
       "mediterranean_forest": "2024-12-14 21:22:43 +0000",
@@ -1484,6 +1485,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-15 05:16:51 +0000",
+      "minecraft:blaze": "2024-12-17 03:42:18 +0000",
       "minecraft:skeleton": "2024-12-14 03:44:45 +0000",
       "minecraft:ravager": "2024-12-15 05:17:01 +0000",
       "minecraft:spider": "2024-12-14 03:21:12 +0000",
@@ -1491,6 +1493,7 @@
       "minecraft:slime": "2024-12-17 02:31:49 +0000",
       "minecraft:phantom": "2024-12-15 05:28:09 +0000",
       "minecraft:witch": "2024-12-15 23:37:23 +0000",
+      "minecraft:wither_skeleton": "2024-12-17 03:43:42 +0000",
       "minecraft:husk": "2024-12-15 03:40:48 +0000",
       "minecraft:cave_spider": "2024-12-14 21:11:12 +0000",
       "minecraft:stray": "2024-12-14 21:10:35 +0000",
@@ -5404,6 +5407,18 @@
     },
     "done": true
   },
+  "supertools:supertools/root": {
+    "criteria": {
+      "killed_blaze": "2024-12-17 03:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-17 03:40:23 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-17 02:19:19 +0000"
@@ -5480,6 +5495,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:39:41 +0000"
     },
     "done": true
   },
@@ -5723,6 +5744,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-17 03:45:52 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
@@ -5747,9 +5774,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-17 03:42:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2024-12-17 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-17 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-17 03:40:36 +0000"
     },
     "done": true
   },
@@ -5855,6 +5900,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 03:39:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/moonstone_block": {
     "criteria": {
       "has_item": "2024-12-17 02:05:19 +0000"
@@ -5934,6 +5985,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-17 03:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-17 02:24:04 +0000"
@@ -5967,6 +6024,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-17 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_fortress_core": {
+    "criteria": {
+      "blowgun": "2024-12-17 03:42:36 +0000"
     },
     "done": true
   },
@@ -6081,6 +6144,18 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-17 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 03:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-17 03:42:36 +0000"
     },
     "done": true
   },

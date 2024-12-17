@@ -1248,6 +1248,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-17 03:52:04 +0000",
       "minecraft:skeleton": "2024-12-15 03:45:32 +0000",
       "minecraft:spider": "2024-12-15 04:22:08 +0000",
       "minecraft:creeper": "2024-12-15 06:44:00 +0000",
@@ -5533,6 +5534,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-17 03:48:53 +0000",
       "minecraft:soul_sand_valley": "2024-12-17 03:23:53 +0000"
     },
     "done": false
@@ -5675,9 +5677,39 @@
     },
     "done": true
   },
+  "supertools:supertools/root": {
+    "criteria": {
+      "killed_blaze": "2024-12-17 03:52:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/orange_sapling": {
     "criteria": {
       "has_orange": "2024-12-17 03:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-17 03:49:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 03:39:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 03:39:21 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2024-12-17 03:39:51 +0000"
     },
     "done": true
   },
