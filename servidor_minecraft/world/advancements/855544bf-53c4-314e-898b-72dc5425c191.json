@@ -1629,6 +1629,7 @@
       "minecraft:cave_spider": "2024-12-14 20:56:33 +0000",
       "minecraft:piglin": "2024-12-15 03:28:34 +0000",
       "minecraft:enderman": "2024-12-15 04:15:12 +0000",
+      "minecraft:stray": "2024-12-17 04:28:15 +0000",
       "minecraft:vex": "2024-12-14 20:59:16 +0000",
       "minecraft:zombie": "2024-12-14 03:34:27 +0000",
       "minecraft:zombie_villager": "2024-12-14 05:28:04 +0000"
@@ -6123,6 +6124,12 @@
     },
     "done": true
   },
+  "terramity:lucky_sevens_advancement": {
+    "criteria": {
+      "lucky_sevens_advancement_0": "2024-12-17 04:26:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-17 04:01:04 +0000"
@@ -6150,6 +6157,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-17 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2024-12-17 04:26:23 +0000"
     },
     "done": true
   },
