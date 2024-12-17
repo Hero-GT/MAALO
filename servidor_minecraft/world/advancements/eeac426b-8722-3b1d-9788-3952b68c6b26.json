@@ -6684,39 +6684,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "terramity:most_gamblers_quit_advancement": {
     "criteria": {
-      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2024-12-17 05:15:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2024-12-17 05:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-17 04:57:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2024-12-17 05:15:22 +0000"
+      "most_gamblers_quit_advancement_0": "2024-12-17 04:42:50 +0000"
     },
     "done": true
   },
@@ -6726,33 +6696,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_item": "2024-12-17 05:15:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-17 05:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2024-12-17 04:54:42 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2024-12-17 04:52:16 +0000"
+      "has_carrot": "2024-12-17 04:51:49 +0000"
     },
     "done": true
   },
@@ -6762,27 +6708,27 @@
     },
     "done": true
   },
-  "terramity:most_gamblers_quit_advancement": {
+  "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
-      "most_gamblers_quit_advancement_0": "2024-12-17 04:42:50 +0000"
+      "has_item": "2024-12-17 04:52:16 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-17 05:15:10 +0000"
+      "wither_skull": "2024-12-17 04:52:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-17 04:55:16 +0000"
+      "has_wither_skeleton_skull": "2024-12-17 04:52:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
+  "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
-      "has_item": "2024-12-17 05:15:22 +0000"
+      "has_nether_star": "2024-12-17 04:54:42 +0000"
     },
     "done": true
   },
@@ -6798,21 +6744,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-17 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-17 04:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-17 04:56:26 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "wither_skull": "2024-12-17 04:52:16 +0000"
-    },
-    "done": true
-  },
-  "terramity:when_life_gives_you_lemons": {
-    "criteria": {
-      "when_life_gives_you_lemons_0": "2024-12-17 05:12:25 +0000"
+      "has_soul_sand": "2024-12-17 04:57:01 +0000"
     },
     "done": true
   },
@@ -6822,21 +6786,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-17 04:51:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-17 04:57:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "terramity:when_life_gives_you_lemons": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-17 04:52:16 +0000"
+      "when_life_gives_you_lemons_0": "2024-12-17 05:12:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-17 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-17 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-17 05:20:19 +0000"
     },
     "done": true
   },

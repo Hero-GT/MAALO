@@ -1,12 +1,5 @@
 [
   {
-    "inputItem": "wom:diamond_staff:1",
-    "outputItems": [
-      "minecraft:diamond:2",
-      "minecraft:stick:1"
-    ]
-  },
-  {
     "inputItem": "gobber2:gobber2_rod_nether:2",
     "outputItems": [
       "gobber2:gobber2_ingot_nether:2"
@@ -21,33 +14,12 @@
     ]
   },
   {
-    "inputItem": "iceandfire:silver_pickaxe:1",
-    "outputItems": [
-      "iceandfire:silver_ingot:3",
-      "minecraft:stick:2"
-    ]
-  },
-  {
     "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
     "outputItems": [
       "minecraft:redstone:4",
       "minecraft:iron_ingot:3",
       "sophisticatedbackpacks:upgrade_base:1",
       "minecraft:furnace:1"
-    ]
-  },
-  {
-    "inputItem": "not_just_sandwich:cod_sandwich:1",
-    "outputItems": [
-      "not_just_sandwich:cut_bread:2",
-      "minecraft:cooked_cod:1"
-    ]
-  },
-  {
-    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
-    "outputItems": [
-      "minecraft:dark_oak_log:4",
-      "sophisticatedbackpacks:smelting_upgrade:1"
     ]
   },
   {
@@ -58,9 +30,43 @@
     ]
   },
   {
+    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
+    "outputItems": [
+      "minecraft:dark_oak_log:4",
+      "sophisticatedbackpacks:smelting_upgrade:1"
+    ]
+  },
+  {
     "inputItem": "minecraft:honeycomb:6",
     "outputItems": [
       "mysticalagriculture:honey_essence:3"
+    ]
+  },
+  {
+    "inputItem": "wom:diamond_staff:1",
+    "outputItems": [
+      "minecraft:diamond:2",
+      "minecraft:stick:1"
+    ]
+  },
+  {
+    "inputItem": "iceandfire:silver_pickaxe:1",
+    "outputItems": [
+      "iceandfire:silver_ingot:3",
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "inputItem": "not_just_sandwich:cod_sandwich:1",
+    "outputItems": [
+      "not_just_sandwich:cut_bread:2",
+      "minecraft:cooked_cod:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:bone_meal:3",
+    "outputItems": [
+      "alexscaves:smooth_bone_wall:1"
     ]
   },
   {
