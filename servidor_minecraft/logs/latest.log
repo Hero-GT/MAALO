@@ -21,3 +21,5 @@
 [17Dec2024 01:01:39.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=-54, z=-3655} BlockPos{x=361, y=-54, z=-3655}
 [17Dec2024 01:03:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
 [17Dec2024 01:03:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 01:12:38.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 01:17:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
