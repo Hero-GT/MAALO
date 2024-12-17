@@ -77,3 +77,39 @@
 [17Dec2024 01:48:06.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [17Dec2024 01:48:16.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
 [17Dec2024 01:48:23.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[17Dec2024 01:48:41.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[17Dec2024 01:49:02.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6090ms or 121 ticks behind
+[17Dec2024 01:49:02.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by successor
+[17Dec2024 01:49:19.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[17Dec2024 01:49:51.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 01:50:11.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 01:50:11.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck lost connection: Disconnected
+[17Dec2024 01:50:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck left the game
+[17Dec2024 01:50:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 01:51:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Sanity15]
+[17Dec2024 01:51:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was burnt to a crisp whilst fighting Kazuruki
+[17Dec2024 01:51:34.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[17Dec2024 01:51:56.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[17Dec2024 01:51:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[17Dec2024 01:52:02.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -640.500000, 69.500000, -4897.500000]
+[17Dec2024 01:52:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17Dec2024 01:52:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Sanity15]
+[17Dec2024 01:53:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Graniter82a
+[17Dec2024 01:53:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17Dec2024 01:53:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 01:53:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was shot by Graniter82a
+[17Dec2024 01:53:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 01:53:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Kazuruki
+[17Dec2024 01:53:20.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was obliterated by Kazuruki
+[17Dec2024 01:53:33.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was burnt to a crisp whilst fighting Kazuruki
+[17Dec2024 01:53:37.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was burnt to a crisp whilst fighting Kazuruki
+[17Dec2024 01:54:16.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Applied effect Resistance to Kazuruki]
+[17Dec2024 01:54:25.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[17Dec2024 01:54:25.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[17Dec2024 01:55:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Resistance to Graniter82a]
+[17Dec2024 01:57:32.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from 3 targets]
+[17Dec2024 01:57:36.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 01:58:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 01:58:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 54 [Torch] to Kazuruki]
+[17Dec2024 01:58:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 01:58:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
