@@ -2970,6 +2970,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-17 05:20:27 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_heart": "2024-12-14 21:41:53 +0000"
@@ -5601,6 +5607,12 @@
     },
     "done": true
   },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2024-12-17 05:14:49 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2024-12-17 03:27:36 +0000"
@@ -6577,6 +6589,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-17 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-17 05:10:27 +0000"
     },
     "done": true
   },
