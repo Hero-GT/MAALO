@@ -3181,3 +3181,14 @@
 [17Dec2024 05:25:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
 [17Dec2024 05:26:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -609.500000, 70.500000, -4742.500000]
 [17Dec2024 05:26:17.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 05:26:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 05:27:02.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[17Dec2024 05:28:19.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck lost connection: Disconnected
+[17Dec2024 05:28:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck left the game
+[17Dec2024 05:28:48.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 345.500000, -52.500000, -3643.500000]
+[17Dec2024 05:30:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 05:30:57.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 05:33:51.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[17Dec2024 05:33:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[17Dec2024 05:33:51.338] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 05:34:49.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
