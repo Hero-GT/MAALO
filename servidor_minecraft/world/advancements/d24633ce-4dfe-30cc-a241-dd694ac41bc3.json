@@ -5887,9 +5887,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2024-12-17 03:30:52 +0000",
       "main": "2024-12-17 03:25:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
@@ -6002,6 +6003,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-17 02:38:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_grinder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 03:29:55 +0000"
     },
     "done": true
   },
