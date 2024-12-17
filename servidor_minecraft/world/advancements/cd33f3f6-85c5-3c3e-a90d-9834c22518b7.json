@@ -835,6 +835,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-17 22:06:20 +0000",
       "shrubland": "2024-12-14 03:37:24 +0000",
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "highland": "2024-12-15 22:27:06 +0000",
@@ -4283,6 +4284,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-17 22:06:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2024-12-17 19:47:40 +0000"
@@ -4414,6 +4421,12 @@
       "main": "2024-12-17 21:50:34 +0000"
     },
     "done": false
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-17 22:00:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
     "criteria": {

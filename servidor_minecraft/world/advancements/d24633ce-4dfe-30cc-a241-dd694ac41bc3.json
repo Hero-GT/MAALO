@@ -7184,6 +7184,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 22:00:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
