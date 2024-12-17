@@ -2376,3 +2376,142 @@
 [17Dec2024 04:02:43.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
 [17Dec2024 04:03:01.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
 [17Dec2024 04:03:19.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17Dec2024 04:03:39.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5340ms or 106 ticks behind
+[17Dec2024 04:03:57.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[17Dec2024 04:04:15.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[17Dec2024 04:04:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Amethyst Shard] to Kazuruki]
+[17Dec2024 04:04:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 63 [Amethyst Shard] to Kazuruki]
+[17Dec2024 04:04:33.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
+[17Dec2024 04:04:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 04:04:49.966] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:49.967] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:51.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[17Dec2024 04:04:51.831] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:51.832] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.243] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.244] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.244] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.244] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.244] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.859] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:52.860] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.642] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.642] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.643] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.643] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.643] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.773] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.774] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.774] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:04:58.774] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 04:05:00.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
+[17Dec2024 04:05:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 04:05:09.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[17Dec2024 04:06:23.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[17Dec2024 04:06:49.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=107, z=-474} BlockPos{x=41, y=106, z=-473}
+[17Dec2024 04:07:03.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25344ms or 506 ticks behind
+[17Dec2024 04:07:11.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=106, z=-488} BlockPos{x=22, y=107, z=-487}
+[17Dec2024 04:07:11.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=106, z=-489} BlockPos{x=22, y=107, z=-487}
+[17Dec2024 04:07:11.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=105, z=-488} BlockPos{x=22, y=107, z=-487}
+[17Dec2024 04:07:11.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=106, z=-490} BlockPos{x=22, y=107, z=-487}
+[17Dec2024 04:07:45.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26422ms or 528 ticks behind
+[17Dec2024 04:08:00.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Who is Cutting Onions?]
+[17Dec2024 04:08:21.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21574ms or 431 ticks behind
+[17Dec2024 04:09:00.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23585ms or 471 ticks behind
+[17Dec2024 04:09:10.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=115, z=-460} BlockPos{x=34, y=113, z=-463}
+[17Dec2024 04:09:10.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=115, z=-460} BlockPos{x=34, y=113, z=-463}
+[17Dec2024 04:09:11.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=115, z=-460} BlockPos{x=34, y=113, z=-463}
+[17Dec2024 04:09:32.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=111, z=-459} BlockPos{x=17, y=111, z=-458}
+[17Dec2024 04:09:32.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=111, z=-459} BlockPos{x=17, y=111, z=-458}
+[17Dec2024 04:09:32.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=110, z=-459} BlockPos{x=17, y=111, z=-458}
+[17Dec2024 04:09:32.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=111, z=-459} BlockPos{x=17, y=111, z=-458}
+[17Dec2024 04:09:48.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33059ms or 661 ticks behind
+[17Dec2024 04:10:02.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=90, z=-462} BlockPos{x=0, y=92, z=-462}
+[17Dec2024 04:10:02.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=89, z=-462} BlockPos{x=0, y=92, z=-462}
+[17Dec2024 04:10:40.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37574ms or 751 ticks behind
+[17Dec2024 04:11:13.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=15, z=-566} BlockPos{x=35, y=16, z=-566}
+[17Dec2024 04:11:13.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=15, z=-567} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=15, z=-568} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=15, z=-568} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=14, z=-567} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=14, z=-567} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=14, z=-567} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=14, z=-569} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:13.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=14, z=-569} BlockPos{x=35, y=15, z=-568}
+[17Dec2024 04:11:17.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=15, z=-576} BlockPos{x=32, y=16, z=-573}
+[17Dec2024 04:11:18.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=15, z=-577} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=15, z=-577} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=15, z=-578} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=15, z=-578} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=15, z=-578} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=15, z=-580} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=14, z=-579} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:18.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=14, z=-580} BlockPos{x=32, y=16, z=-576}
+[17Dec2024 04:11:20.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=15, z=-579} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-579} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-580} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-580} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=15, z=-580} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=15, z=-582} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=15, z=-581} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=14, z=-581} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:20.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=14, z=-581} BlockPos{x=36, y=14, z=-580}
+[17Dec2024 04:11:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 9177 entities]
+[17Dec2024 04:11:25.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30001ms or 600 ticks behind
+[17Dec2024 04:11:28.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=13, z=-592} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=13, z=-592} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=14, z=-593} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=14, z=-593} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=15, z=-593} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=15, z=-592} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:28.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=15, z=-592} BlockPos{x=40, y=10, z=-591}
+[17Dec2024 04:11:29.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=13, z=-592} BlockPos{x=39, y=13, z=-594}
+[17Dec2024 04:11:30.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=11, z=-595} BlockPos{x=39, y=12, z=-594}
+[17Dec2024 04:11:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 391 entities]
+[17Dec2024 04:11:38.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=13, z=-595} BlockPos{x=27, y=14, z=-597}
+[17Dec2024 04:11:38.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=12, z=-596} BlockPos{x=27, y=14, z=-597}
+[17Dec2024 04:11:39.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=12, z=-598} BlockPos{x=27, y=13, z=-597}
+[17Dec2024 04:11:39.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=12, z=-598} BlockPos{x=27, y=13, z=-597}
+[17Dec2024 04:11:47.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 445 entities]
+[17Dec2024 04:11:50.869] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3402, y=16, z=2293}
+[17Dec2024 04:11:53.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=8, z=-599} BlockPos{x=12, y=9, z=-599}
+[17Dec2024 04:11:53.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=8, z=-599} BlockPos{x=12, y=9, z=-599}
+[17Dec2024 04:11:54.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=8, z=-600} BlockPos{x=12, y=7, z=-599}
+[17Dec2024 04:11:54.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=10, z=-600} BlockPos{x=12, y=9, z=-599}
+[17Dec2024 04:11:54.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=10, z=-601} BlockPos{x=12, y=9, z=-599}
+[17Dec2024 04:11:55.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 359 entities]
+[17Dec2024 04:11:57.895] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3402, y=13, z=2293}
+[17Dec2024 04:12:01.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 693 entities]
+[17Dec2024 04:12:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 178 entities]
+[17Dec2024 04:12:03.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed Bone]
+[17Dec2024 04:12:03.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 131 entities]
+[17Dec2024 04:12:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 78 entities]
+[17Dec2024 04:12:04.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 83 entities]
+[17Dec2024 04:12:04.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 53 entities]
+[17Dec2024 04:12:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 149 entities]
+[17Dec2024 04:12:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 45 entities]
+[17Dec2024 04:12:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 152 entities]
+[17Dec2024 04:12:05.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 229 entities]
+[17Dec2024 04:12:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 58 entities]
+[17Dec2024 04:12:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 81 entities]
+[17Dec2024 04:12:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 87 entities]
+[17Dec2024 04:12:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 69 entities]
+[17Dec2024 04:12:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 100 entities]
+[17Dec2024 04:12:08.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 117 entities]
+[17Dec2024 04:12:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 29 entities]
+[17Dec2024 04:12:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 152 entities]
+[17Dec2024 04:12:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 47 entities]
+[17Dec2024 04:12:11.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 182 entities]
+[17Dec2024 04:12:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 64 entities]
+[17Dec2024 04:12:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 131 entities]
+[17Dec2024 04:12:12.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 59 entities]
+[17Dec2024 04:12:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 28 entities]
+[17Dec2024 04:12:24.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 275 entities]
+[17Dec2024 04:12:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 04:12:32.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
+[17Dec2024 04:12:37.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 2 entities]
+[17Dec2024 04:12:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[17Dec2024 04:12:55.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
+[17Dec2024 04:13:00.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 2 entities]
+[17Dec2024 04:13:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 2 entities]
+[17Dec2024 04:13:16.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 3 entities]
