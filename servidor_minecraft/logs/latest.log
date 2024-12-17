@@ -3945,3 +3945,28 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [17Dec2024 21:29:06.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was killed
 [17Dec2024 21:29:06.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed Graniter82a]
 [17Dec2024 21:29:21.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[17Dec2024 21:29:39.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[17Dec2024 21:29:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Wooden Axe] to Kazuruki]
+[17Dec2024 21:30:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Sanity15
+[17Dec2024 21:30:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was killed whilst fighting Sanity15
+[17Dec2024 21:30:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed Graniter82a]
+[17Dec2024 21:30:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Graniter82a
+[17Dec2024 21:31:14.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 11.789494226948705,-0.001335979112141672,5.917006989568108
+[17Dec2024 21:31:14.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 11.86114781260369,-0.001335979112141672,5.922717119958179
+[17Dec2024 21:31:15.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 11.715955551651177,-0.001335979112141672,5.868317358960667
+[17Dec2024 21:31:15.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 11.732630635536225,-0.001335979112141672,5.874647011121851
+[17Dec2024 21:31:15.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 11.732630635536225,0.0,5.874647011121851
+[17Dec2024 21:31:15.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 10.676694186038503,-0.07840000152587834,5.345928934189942
+[17Dec2024 21:31:16.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was obliterated by a sonically-charged shriek whilst trying to escape Chik3nBl4ck
+[17Dec2024 21:31:39.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 21:31:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 21:32:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Applied effect Night Vision to Sanity15]
+[17Dec2024 21:34:26.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/119935, l='ServerLevel[world]', x=55.11, y=62.00, z=-5226.57] died, message: 'Scribe was slain by Zombie using [Dagger]'
+[17Dec2024 21:34:43.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/119906, l='ServerLevel[world]', x=87.39, y=63.00, z=-5213.02] died, message: 'Fisherman was slain by Zombie Lumberjack'
+[17Dec2024 21:35:15.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17Dec2024 21:35:39.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 21:35:55.928] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-921, y=6, z=-5091}
+[17Dec2024 21:35:56.333] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-921, y=5, z=-5091}
+[17Dec2024 21:35:56.667] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-921, y=6, z=-5091}
+[17Dec2024 21:37:18.182] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-920, y=7, z=-5058}
+[17Dec2024 21:38:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
