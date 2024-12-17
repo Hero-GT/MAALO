@@ -814,6 +814,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-14 03:33:42 +0000",
       "minecraft:ocean": "2024-12-15 04:55:41 +0000",
       "minecraft:snowy_beach": "2024-12-15 05:09:55 +0000",
+      "minecraft:meadow": "2024-12-17 20:45:21 +0000",
       "minecraft:savanna": "2024-12-14 21:34:45 +0000",
       "minecraft:plains": "2024-12-14 03:55:45 +0000"
     },
@@ -1492,6 +1493,7 @@
       "minecraft:creeper": "2024-12-14 03:26:17 +0000",
       "minecraft:slime": "2024-12-17 02:31:49 +0000",
       "minecraft:phantom": "2024-12-15 05:28:09 +0000",
+      "minecraft:zombified_piglin": "2024-12-17 20:35:56 +0000",
       "minecraft:witch": "2024-12-15 23:37:23 +0000",
       "minecraft:wither_skeleton": "2024-12-17 03:43:42 +0000",
       "minecraft:husk": "2024-12-15 03:40:48 +0000",
@@ -6689,6 +6691,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-17 20:49:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
@@ -6713,9 +6721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 20:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-17 20:36:35 +0000"
     },
     "done": true
   },
@@ -6749,6 +6769,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 20:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
@@ -6776,6 +6802,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-17 20:53:54 +0000"
     },
     "done": true
   },

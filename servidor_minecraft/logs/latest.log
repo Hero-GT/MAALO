@@ -2170,3 +2170,149 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [17Dec2024 20:36:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
 [17Dec2024 20:36:14.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
 [17Dec2024 20:36:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 367.500000, 63.500000, -3690.500000]
+[17Dec2024 20:37:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Statue's Bargain]
+[17Dec2024 20:37:02.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17Dec2024 20:37:28.025] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.026] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.066] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.087] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.088] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.213] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.214] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.240] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.240] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:28.241] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:29.619] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:29.633] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:29.634] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:29.648] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.039] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.087] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.161] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.251] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.286] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.286] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.290] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.291] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.291] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.316] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.316] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.323] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.324] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:33.324] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:37:34.520] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:12.621] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:12.622] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:12.995] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:12.995] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.007] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.230] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.231] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.232] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.250] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:13.251] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Enhanced Stick] to Kazuruki]
+[17Dec2024 20:38:15.481] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:15.482] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:18.966] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:19.927] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:19.927] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:24.553] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:24.554] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:24.559] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:29.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Diamond Shovel] to Kazuruki]
+[17Dec2024 20:38:39.715] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.056] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.059] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.059] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.071] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.765] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.766] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.766] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:40.767] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:41.905] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:41.920] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:41.981] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.637] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.638] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.642] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.642] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.646] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.646] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.689] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:42.853] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17Dec2024 20:38:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency VII to Kazuruki's item]
+[17Dec2024 20:39:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17Dec2024 20:39:15.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 20:39:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Chik3nBl4ck is now a Vampire level 5]
+[17Dec2024 20:39:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:39:30.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:39:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:39:41.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/77361, l='ServerLevel[world]', x=54.05, y=63.00, z=-5190.70] died, message: 'Scribe was slain by Zombie Bruiser'
+[17Dec2024 20:41:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:42:08.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:42:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 20:43:12.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [What a Deal!]
+[17Dec2024 20:43:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:44:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Graniter82a
+[17Dec2024 20:45:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:45:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:45:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[17Dec2024 20:45:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned in shadowflame
+[17Dec2024 20:45:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:45:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:46:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:46:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:46:25.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Sunscreen to Chik3nBl4ck]
+[17Dec2024 20:46:33.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:46:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17Dec2024 20:47:00.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 20:47:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 20:47:08.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[17Dec2024 20:47:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[17Dec2024 20:47:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Sunscreen to Chik3nBl4ck]
+[17Dec2024 20:47:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Sunscreen to Chik3nBl4ck]
+[17Dec2024 20:47:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[17Dec2024 20:47:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Applied effect Invisibility to Graniter82a]
+[17Dec2024 20:48:04.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Chik3nBl4ck]
+[17Dec2024 20:48:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[17Dec2024 20:48:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 20:48:28.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 13000]
+[17Dec2024 20:48:32.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:48:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Water Bucket] to Graniter82a]
+[17Dec2024 20:48:55.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17Dec2024 20:48:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 20:49:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a blew up
+[17Dec2024 20:49:21.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[17Dec2024 20:49:21.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[17Dec2024 20:49:41.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Captain Lauren'/84300, l='ServerLevel[world]', x=-717.81, y=66.00, z=-4732.19] died: Captain Lauren was slain by Sanity15
+[17Dec2024 20:49:56.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 365.500000, -58.500000, -3639.500000]
+[17Dec2024 20:50:03.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[17Dec2024 20:50:09.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[17Dec2024 20:50:38.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[17Dec2024 20:50:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17Dec2024 20:50:49.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[17Dec2024 20:51:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[17Dec2024 20:51:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17Dec2024 20:52:39.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17Dec2024 20:52:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was blown up by Creeper
+[17Dec2024 20:52:47.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Hollow soldier
+[17Dec2024 20:52:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17Dec2024 20:52:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[17Dec2024 20:53:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[17Dec2024 20:53:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 71.500000, 102.500000, -5307.500000]
+[17Dec2024 20:53:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[17Dec2024 20:53:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Slowness to Kazuruki]
+[17Dec2024 20:53:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[17Dec2024 20:53:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Blood Feeders' Home]
+[17Dec2024 20:54:16.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Blood Feeders' Home]
+[17Dec2024 20:55:49.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -612.500000, 84.500000, -4751.500000]
+[17Dec2024 20:55:51.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[17Dec2024 20:55:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki suffocated in a wall
+[17Dec2024 20:55:58.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17Dec2024 20:56:00.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Once Upon a Cave]
+[17Dec2024 20:56:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[17Dec2024 20:56:47.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Far From Perfect]
+[17Dec2024 20:56:55.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17Dec2024 20:57:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[17Dec2024 20:57:24.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind

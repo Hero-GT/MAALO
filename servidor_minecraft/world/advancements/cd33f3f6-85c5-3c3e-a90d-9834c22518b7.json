@@ -4318,6 +4318,12 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-17 20:54:16 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2024-12-17 20:34:32 +0000"
