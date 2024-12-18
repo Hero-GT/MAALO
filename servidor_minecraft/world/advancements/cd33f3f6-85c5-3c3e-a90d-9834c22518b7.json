@@ -839,6 +839,7 @@
       "shrubland": "2024-12-14 03:37:24 +0000",
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "highland": "2024-12-15 22:27:06 +0000",
+      "clover_patch": "2024-12-18 01:47:45 +0000",
       "orchard": "2024-12-14 20:12:47 +0000",
       "field": "2024-12-15 22:56:00 +0000",
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
@@ -1499,9 +1500,10 @@
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
-      "requirement_2": "2024-12-14 03:33:38 +0000"
+      "requirement_2": "2024-12-14 03:33:38 +0000",
+      "requirement_1": "2024-12-18 01:27:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
@@ -2783,9 +2785,10 @@
   },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
+      "requirement_2": "2024-12-18 01:27:10 +0000",
       "requirement_1": "2024-12-14 21:46:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
@@ -4698,9 +4701,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-18 01:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2024-12-18 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-18 01:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-18 01:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-18 01:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-18 01:43:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-18 01:43:23 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 01:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 01:37:34 +0000"
     },
     "done": true
   },
