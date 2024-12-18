@@ -6668,12 +6668,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
-    "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
@@ -6683,12 +6677,6 @@
   "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2024-12-17 23:30:25 +0000"
     },
     "done": true
   },
@@ -6704,27 +6692,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_door": {
-    "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/jungle_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/jacaranda_fence": {
-    "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
     },
     "done": true
   },
@@ -6734,21 +6704,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/jacaranda_button": {
-    "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-17 22:30:44 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
     "criteria": {
-      "has_planks": "2024-12-17 23:37:38 +0000"
+      "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 23:30:25 +0000"
     },
     "done": true
   },
@@ -6764,9 +6740,39 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
-      "has_keypad_chest": "2024-12-17 22:30:44 +0000"
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:37:38 +0000"
     },
     "done": true
   },
@@ -6779,12 +6785,6 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 23:37:38 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-17 22:30:44 +0000"
     },
     "done": true
   },
