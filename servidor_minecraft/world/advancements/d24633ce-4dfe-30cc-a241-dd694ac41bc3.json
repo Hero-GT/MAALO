@@ -1038,14 +1038,17 @@
       "seasonal_orchard": "2024-12-17 02:55:27 +0000",
       "seasonal_forest": "2024-12-14 20:56:18 +0000",
       "auroral_garden": "2024-12-15 05:10:34 +0000",
+      "dead_forest": "2024-12-18 03:25:12 +0000",
       "fir_clearing": "2024-12-15 05:21:32 +0000",
       "pumpkin_patch": "2024-12-14 20:55:38 +0000",
       "grassland": "2024-12-15 04:19:23 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:38:17 +0000",
       "snowy_fir_clearing": "2024-12-14 03:38:32 +0000",
       "tundra": "2024-12-14 03:55:20 +0000",
+      "glowing_grotto": "2024-12-18 03:27:30 +0000",
       "rainforest": "2024-12-15 04:08:52 +0000",
-      "crag": "2024-12-17 21:18:16 +0000"
+      "crag": "2024-12-17 21:18:16 +0000",
+      "snowy_maple_woods": "2024-12-18 03:25:09 +0000"
     },
     "done": false
   },
@@ -7529,6 +7532,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-18 03:22:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-18 02:30:55 +0000"
@@ -7544,6 +7553,12 @@
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-18 03:22:45 +0000"
     },
     "done": true
   },
