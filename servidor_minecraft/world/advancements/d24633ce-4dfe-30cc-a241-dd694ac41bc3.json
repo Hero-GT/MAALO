@@ -1506,6 +1506,7 @@
       "minecraft:husk": "2024-12-15 03:40:48 +0000",
       "minecraft:cave_spider": "2024-12-14 21:11:12 +0000",
       "minecraft:stray": "2024-12-14 21:10:35 +0000",
+      "minecraft:vex": "2024-12-18 01:06:44 +0000",
       "minecraft:zombie": "2024-12-14 03:49:38 +0000",
       "minecraft:drowned": "2024-12-14 21:50:02 +0000",
       "minecraft:zombie_villager": "2024-12-15 04:12:24 +0000"
@@ -6161,30 +6162,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/bat": {
     "criteria": {
       "action": "2024-12-17 19:13:52 +0000",
@@ -6198,18 +6175,6 @@
       "main": "2024-12-17 03:25:41 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2024-12-17 20:30:51 +0000"
-    },
-    "done": false
   },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
@@ -6698,23 +6663,11 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
+  "soulsweapons:all_weapons": {
     "criteria": {
-      "kill": "2024-12-17 20:49:52 +0000"
+      "crucible_sword": "2024-12-17 19:54:06 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/dark_stone_brick_wall": {
-    "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
@@ -6728,165 +6681,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "vampirism:hunter/become_hunter": {
-    "criteria": {
-      "main": "2024-12-17 20:30:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 21:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2024-12-17 21:14:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-17 20:36:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
-    "criteria": {
-      "has_heart_striker": "2024-12-17 21:53:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
-    "criteria": {
-      "has_ingot": "2024-12-17 21:37:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
-    "criteria": {
-      "has_blood_infused_enhanced_iron_ingot": "2024-12-17 21:36:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 21:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
-    "criteria": {
-      "has_heart_seeker": "2024-12-17 21:53:22 +0000"
     },
     "done": true
   },
@@ -6896,87 +6693,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/leather_from_obi_belt": {
-    "criteria": {
-      "has_obi_belt": "2024-12-17 21:36:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2024-12-17 20:36:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 21:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 21:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
-    "criteria": {
-      "has_ingot": "2024-12-17 21:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
-    "criteria": {
-      "has_amulet": "2024-12-17 21:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
     },
     "done": true
   },
@@ -6986,57 +6705,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
-    "criteria": {
-      "has_dark_stone_brick_slab": "2024-12-17 21:33:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/regicide": {
-    "criteria": {
-      "main": "2024-12-17 21:16:13 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 21:20:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:41 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
-    "criteria": {
-      "has_ingot": "2024-12-17 21:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
     },
     "done": true
   },
@@ -7046,15 +6717,99 @@
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "crucible_sword": "2024-12-17 19:54:06 +0000"
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2024-12-17 20:30:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2024-12-17 20:30:51 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+  "vampirism:vampire/freeze_kill": {
     "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+      "main": "2024-12-17 20:30:51 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-12-17 20:30:51 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2024-12-17 20:30:51 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-12-17 20:30:51 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-12-17 20:30:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 20:36:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-17 20:36:35 +0000"
     },
     "done": true
   },
@@ -7064,21 +6819,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+  "vampirism:hunter/betrayal": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+      "kill": "2024-12-17 20:49:52 +0000"
+    },
+    "done": false
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-17 20:53:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+      "cave_book": "2024-12-17 20:56:00 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+  "iceandfire:iceandfire/kill_troll": {
     "criteria": {
-      "has_ingot": "2024-12-17 21:37:19 +0000"
+      "killed_fire_dragon": "2024-12-17 20:57:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
     },
     "done": true
   },
@@ -7100,9 +6969,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+  "vampirism:recipes/building_blocks/polished_dark_stone": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-17 21:14:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-17 21:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-17 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 21:20:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_brick_slab": "2024-12-17 21:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
     },
     "done": true
   },
@@ -7118,147 +7143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/polished_dark_stone": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
-    "criteria": {
-      "has_amulet": "2024-12-17 21:52:05 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
-    "criteria": {
-      "has_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-17 20:57:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
-    "criteria": {
-      "has_heart_seeker": "2024-12-17 21:36:23 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/hunter/pure_blood0": {
-    "criteria": {
-      "has_pure_blood": "2024-12-17 22:00:29 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-17 21:02:43 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-17 20:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
-    "criteria": {
-      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/vampire_forest": {
-    "criteria": {
-      "main": "2024-12-17 20:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2024-12-17 21:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
-    "criteria": {
-      "has_blood_infused_iron_ingot": "2024-12-17 21:37:19 +0000"
     },
     "done": true
   },
@@ -7274,21 +7161,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
     "criteria": {
-      "has_black_dye": "2024-12-17 21:19:40 +0000"
+      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-17 20:16:01 +0000"
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
-      "has_cobbled_dark_stone": "2024-12-17 21:11:36 +0000"
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2024-12-17 21:35:56 +0000"
     },
     "done": true
   },
@@ -7298,15 +7233,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "vampirism:recipes/combat/leather_from_obi_belt": {
     "criteria": {
-      "has_needed_dye": "2024-12-17 21:19:40 +0000"
+      "has_obi_belt": "2024-12-17 21:36:19 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
     "criteria": {
-      "has_dark_stone_bricks": "2024-12-17 21:35:39 +0000"
+      "has_heart_seeker": "2024-12-17 21:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2024-12-17 21:36:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2024-12-17 21:36:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2024-12-17 21:36:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
+    "criteria": {
+      "has_ingot": "2024-12-17 21:37:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+    "criteria": {
+      "has_ingot": "2024-12-17 21:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
+    "criteria": {
+      "has_blood_infused_iron_ingot": "2024-12-17 21:37:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2024-12-17 21:52:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2024-12-17 21:52:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2024-12-17 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2024-12-17 21:53:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-12-17 22:00:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-18 01:08:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-18 01:09:30 +0000"
     },
     "done": true
   },

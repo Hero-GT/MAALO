@@ -1456,3 +1456,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 00:57:01.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Harvester] to Kazuruki]
 [18Dec2024 00:57:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Harvester] to Kazuruki]
 [18Dec2024 00:57:05.011] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41bb2eb8[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/172.30.254.200:59131) lost connection: Disconnected
+[18Dec2024 00:59:01.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fc1f32[id=<null>,name=Chik3nBl4ck,properties={},legacy=false] (/172.30.254.200:59380) lost connection: Disconnected
+[18Dec2024 01:00:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 01:01:21.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chik3nBl4ck[/172.30.254.200:59748] logged in with entity id 2147 at (-1163.6064712125699, 70.0, -5345.3173031241795)
+[18Dec2024 01:01:21.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck joined the game
+[18Dec2024 01:07:52.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Roland the Godly'/2520, l='ServerLevel[world]', x=389.47, y=63.00, z=-3688.76] died: Roland the Godly was slain by Kazuruki
+[18Dec2024 01:08:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Senior Summoner]
+[18Dec2024 01:09:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Bow for Wizards]
+[18Dec2024 01:10:17.095] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[18Dec2024 01:14:30.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 01:15:28.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/172.30.33.100:57083] logged in with entity id 8241 at (-1164.0357809246457, 70.0, -5346.300000011921)
+[18Dec2024 01:15:28.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[18Dec2024 01:16:23.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Elite knight
+[18Dec2024 01:17:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. After Sanity15 was slain by Elite knight, they gave up
+[18Dec2024 01:18:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanity15> -1190 -5354
+[18Dec2024 01:18:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Sanity15 was slain by Elite knight, they gave up
