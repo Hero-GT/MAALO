@@ -1571,3 +1571,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 01:58:13.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tupapa joined the game
 [18Dec2024 01:58:39.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tupapa lost connection: Disconnected
 [18Dec2024 01:58:39.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tupapa left the game
+[18Dec2024 02:03:47.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 02:03:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Kazuruki]
+[18Dec2024 02:04:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Key Panel] to Kazuruki]
+[18Dec2024 02:05:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 02:10:24.434] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=35, z=2249}
+[18Dec2024 02:10:29.664] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2245}
+[18Dec2024 02:10:31.368] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2243}
+[18Dec2024 02:10:31.577] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2242}
+[18Dec2024 02:10:31.780] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2241}
+[18Dec2024 02:10:32.025] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2240}
+[18Dec2024 02:10:32.277] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2239}
+[18Dec2024 02:10:32.978] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3367, y=34, z=2236}
+[18Dec2024 02:10:35.183] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2237}
+[18Dec2024 02:10:35.223] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2237}
+[18Dec2024 02:10:35.418] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2238}
+[18Dec2024 02:10:35.619] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2239}
+[18Dec2024 02:10:46.815] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2255}
+[18Dec2024 02:10:47.033] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=34, z=2256}
+[18Dec2024 02:10:48.623] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=33, z=2257}
+[18Dec2024 02:10:49.473] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=33, z=2257}
+[18Dec2024 02:10:49.871] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3365, y=33, z=2257}
