@@ -1603,3 +1603,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 02:15:50.921] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3366, y=34, z=2242}
 [18Dec2024 02:15:52.919] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3366, y=34, z=2239}
 [18Dec2024 02:15:54.668] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3366, y=34, z=2237}
+[18Dec2024 02:25:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 02:26:24.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 02:28:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:28:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:29:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[18Dec2024 02:31:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
