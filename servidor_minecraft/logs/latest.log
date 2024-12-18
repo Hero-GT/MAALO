@@ -1609,3 +1609,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 02:28:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned in shadowflame
 [18Dec2024 02:29:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
 [18Dec2024 02:31:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[18Dec2024 02:31:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Local Librarian]
+[18Dec2024 02:32:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 02:33:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 372.500000, 64.500000, -3712.500000]
+[18Dec2024 02:34:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[18Dec2024 02:34:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 02:35:00.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[18Dec2024 02:35:09.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 02:35:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[18Dec2024 02:36:18.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 02:36:32.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 02:36:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 02:39:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 372.500000, 64.500000, -3712.500000]
+[18Dec2024 02:40:01.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[18Dec2024 02:42:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 02:43:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 02:44:04.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 02:44:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 02:44:34.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[18Dec2024 02:44:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Corpse Maggot
+[18Dec2024 02:45:07.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Skeleton
+[18Dec2024 02:45:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Skeleton
+[18Dec2024 02:45:30.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 02:45:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Armed hollow
+[18Dec2024 02:45:53.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 02:46:45.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanity15 lost connection: Disconnected
+[18Dec2024 02:46:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 left the game
+[18Dec2024 02:46:53.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned to ashes
+[18Dec2024 02:47:22.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:47:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:47:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:48:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[18Dec2024 02:48:35.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 02:48:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Draconic Endshelf] to Kazuruki]
+[18Dec2024 02:50:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:50:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned in shadowflame
+[18Dec2024 02:51:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
