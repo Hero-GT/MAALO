@@ -1919,3 +1919,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 03:42:10.121] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [18Dec2024 03:46:35.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 372.500000, 64.500000, -3712.500000]
 [18Dec2024 03:47:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 348.500000, -52.500000, -3644.500000]
+[18Dec2024 04:23:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Entity Data Card] to Kazuruki]
+[18Dec2024 04:23:56.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Entity Data Card] to Kazuruki]
+[18Dec2024 04:24:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Filter Data Card] to Kazuruki]
