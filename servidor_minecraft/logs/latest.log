@@ -1951,3 +1951,5 @@ Blue Moon(in 105d), Harvest Moon(in 97d), Blood Moon(in 91d), Blue Moon(in 85d),
 [18Dec2024 05:47:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set lunar event to "enhancedcelestials:blood_moon"]
 [18Dec2024 05:56:09.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [18Dec2024 05:56:18.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 06:14:07.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 06:14:19.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
