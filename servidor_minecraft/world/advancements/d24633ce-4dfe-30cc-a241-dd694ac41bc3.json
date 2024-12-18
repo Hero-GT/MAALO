@@ -7311,6 +7311,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 01:15:22 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-18 01:08:45 +0000"
@@ -7320,6 +7326,24 @@
   "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
       "bowfor_wizards_0": "2024-12-18 01:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2024-12-18 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 01:15:22 +0000"
     },
     "done": true
   },
